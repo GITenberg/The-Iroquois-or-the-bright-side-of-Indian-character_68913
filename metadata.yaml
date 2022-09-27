@@ -1,11 +1,16 @@
 _repo: The-Iroquois-or-the-bright-side-of-Indian-character_68913
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68913-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Myrtle, Minnie
     gutenberg_agent_id: '55010'
     url: http://www.gutenberg.org/2009/agents/55010
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68913#The-Iroquois-or-the-bright-side-of-Indian-character
 gutenberg_issued: '2022-09-05'
 identifiers:
   gutenberg: '68913'
